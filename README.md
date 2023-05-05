@@ -1,5 +1,9 @@
 # NFT Gated Website
 
+[webサイトを見る]（https://nft-gated-website-five.vercel.app/login）
+<<img width="1440" alt="スクリーンショット 2023-05-05 11 37 17" src="https://user-images.githubusercontent.com/113430420/236367094-7cfd7424-7a2f-4ce1-975a-790b7ac8cadd.png">
+>
+
 This project demonstrates how you can restrict content on your website to only those users who own an NFT from your collection.
 
 We use an [Edition Drop](https://portal.thirdweb.com/pre-built-contracts/edition-drop) contract to enable users to claim one of the NFTs, and serve users the restricted content if they have at least one of the NFTs claimed.
