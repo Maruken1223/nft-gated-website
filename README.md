@@ -1,7 +1,7 @@
 # NFT Gated Website
 
-[webサイトを見る]（https://nft-gated-website-five.vercel.app/login）
-<<img width="1440" alt="スクリーンショット 2023-05-05 11 37 17" src="https://user-images.githubusercontent.com/113430420/236367094-7cfd7424-7a2f-4ce1-975a-790b7ac8cadd.png">
+[webサイトを見る](https://nft-gated-website-five.vercel.app/login)
+<img width="1440" alt="スクリーンショット 2023-05-05 11 37 17" src="https://user-images.githubusercontent.com/113430420/236367094-7cfd7424-7a2f-4ce1-975a-790b7ac8cadd.png">
 >
 
 This project demonstrates how you can restrict content on your website to only those users who own an NFT from your collection.
